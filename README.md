@@ -1,2 +1,3 @@
 # Scalable-Insights
-Automated ETL pipeline for fetching, processing, and storing YouTube trending video data
+* Analyzing YouTube Trends with Airflow and PySpark </br>
+* Leverages Apache Airflow to streamline the extraction, transformation, and loading of data, with the processed results securely stored in Amazon S3.
